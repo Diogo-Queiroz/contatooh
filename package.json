@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Diogo-Queiroz/contatooh/issues"
   },
-  "homepage": "https://github.com/Diogo-Queiroz/contatooh#readme"
+  "homepage": "https://github.com/Diogo-Queiroz/contatooh#readme",
+  "dependencies": {
+    "express": "^4.8.8"
+  }
 }
