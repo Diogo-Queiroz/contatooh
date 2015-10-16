@@ -2,7 +2,6 @@
  * Created by diogo.queiroz on 16/10/2015.
  */
 var express = require('express');
-//var home = require('../app/routes/home');
 var load = require('express-load');
 
 module.exports = function () {
